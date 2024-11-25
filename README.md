@@ -82,7 +82,8 @@ int main() {
 ```
 # OUTPUT
 
-![Screenshot 2024-09-26 142243](https://github.com/user-attachments/assets/840d958b-7929-4e08-8734-4b1178df8d40)
+![WhatsApp Image 2024-11-23 at 10 34 48_bf840184](https://github.com/user-attachments/assets/24cd749b-88ef-40bb-9fcf-3767cf33709b)
+
 
 
 # RESULT
